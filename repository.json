@@ -48,6 +48,21 @@
     },
     {
       "author": "jfcherng",
+      "name": "LSP-batch",
+      "description": "Windows Batch support for Sublime's LSP plugin.",
+      "homepage": "https://github.com/jfcherng-sublime/LSP-batch",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3154",
+          "version": "0.0.1",
+          "url": "https://github.com/jfcherng-sublime/LSP-batch/archive/0.0.1.zip",
+          "date": "2020-06-14 00:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "ToggleLoggings",
       "description": "Provides a shortcut for turning on/off all Sublime Text's logging functionalities.",
       "homepage": "https://github.com/jfcherng-sublime/ST-ToggleLoggings",
