@@ -1,0 +1,65 @@
+{
+  "schema_version": "3.0.0",
+  "packages": [
+    {
+      "author": "jfcherng",
+      "name": "Bootstrap 4 Autocomplete",
+      "description": "Sublime Text plugin for Bootstrap 4 class autocompletion.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Autocomplete",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3000",
+          "version": "1.1.2",
+          "url": "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Autocomplete/archive/1.1.2.zip",
+          "date": "2020-06-14 00:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
+      "name": "Bootstrap 4 Snippets",
+      "description": "Sublime Text plugin for Bootstrap 4 snippets.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Snippets",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3000",
+          "version": "1.0.7",
+          "url": "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Snippets/archive/1.0.7.zip",
+          "date": "2020-06-14 00:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
+      "name": "IntelliDocs",
+      "description": "Quick function parameter hint for Sublime Text.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-IntelliDocs",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3000",
+          "version": "1.1.9",
+          "url": "https://github.com/jfcherng-sublime/ST-IntelliDocs/archive/1.1.9.zip",
+          "date": "2020-06-14 00:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
+      "name": "ToggleLoggings",
+      "description": "Provides a shortcut for turning on/off all Sublime Text's logging functionalities.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-ToggleLoggings",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3000",
+          "version": "0.0.1",
+          "url": "https://github.com/jfcherng-sublime/ST-ToggleLoggings/archive/0.0.1.zip",
+          "date": "2020-06-14 00:00:00"
+        }
+      ]
+    }
+  ]
+}
