@@ -40,9 +40,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=3000",
-          "version": "1.0.7",
-          "url": "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Snippets/archive/1.0.7.zip",
-          "date": "2020-06-14 00:00:00"
+          "version": "1.0.8",
+          "url": "https://github.com/jfcherng-sublime/ST-Bootstrap-4-Snippets/archive/1.0.8.zip",
+          "date": "2020-06-19 00:00:00"
         }
       ]
     },
