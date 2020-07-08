@@ -70,8 +70,8 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=3154",
-          "version": "0.0.2",
-          "url": "https://github.com/jfcherng-sublime/LSP-batch/archive/0.0.1.zip",
+          "version": "1.0.0",
+          "url": "https://github.com/jfcherng-sublime/LSP-batch/archive/1.0.0.zip",
           "date": "2020-07-03 00:00:00"
         }
       ]
