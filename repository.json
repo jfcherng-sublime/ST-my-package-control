@@ -64,7 +64,7 @@
     {
       "author": "jfcherng",
       "name": "LSP-batch",
-      "description": "Windows Batch support for Sublime's LSP plugin.",
+      "description": "Windows Batch support for Sublime's LSP plugin provided through RechInformatica/rech-editor-batch.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-batch",
       "releases": [
         {
@@ -79,7 +79,7 @@
     {
       "author": "jfcherng",
       "name": "LSP-latex",
-      "description": "LaTeX support for Sublime's LSP plugin.",
+      "description": "LaTeX support for Sublime's LSP plugin provided through latex-lsp/texlab.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-latex",
       "releases": [
         {
@@ -94,7 +94,7 @@
     {
       "author": "jfcherng",
       "name": "LSP-yaml",
-      "description": "YAML support for Sublime's LSP plugin.",
+      "description": "YAML support for Sublime's LSP plugin provided through redhat-developer/yaml-language-server.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-yaml",
       "releases": [
         {
