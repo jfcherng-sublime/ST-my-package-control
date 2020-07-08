@@ -78,6 +78,21 @@
     },
     {
       "author": "jfcherng",
+      "name": "LSP-yaml",
+      "description": "YAML support for Sublime's LSP plugin.",
+      "homepage": "https://github.com/jfcherng-sublime/LSP-yaml",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3154",
+          "version": "1.0.0",
+          "url": "https://github.com/jfcherng-sublime/LSP-yaml/archive/1.0.0.zip",
+          "date": "2020-07-08 00:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "ToggleLoggings",
       "description": "Provides a shortcut for turning on/off all Sublime Text's logging functionalities.",
       "homepage": "https://github.com/jfcherng-sublime/ST-ToggleLoggings",
