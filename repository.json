@@ -78,21 +78,6 @@
     },
     {
       "author": "jfcherng",
-      "name": "LSP-latex",
-      "description": "LaTeX support for Sublime's LSP plugin provided through latex-lsp/texlab.",
-      "homepage": "https://github.com/jfcherng-sublime/LSP-latex",
-      "releases": [
-        {
-          "platforms": ["windows-x64", "osx-x64", "linux-x64"],
-          "sublime_text": ">=4050",
-          "version": "0.2.0",
-          "url": "https://github.com/jfcherng-sublime/LSP-latex/archive/0.2.0.zip",
-          "date": "2020-07-09 14:00:00"
-        }
-      ]
-    },
-    {
-      "author": "jfcherng",
       "name": "LSP-yaml",
       "description": "YAML support for Sublime's LSP plugin provided through redhat-developer/yaml-language-server.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-yaml",
