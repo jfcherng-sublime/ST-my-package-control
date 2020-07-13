@@ -85,9 +85,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=4050",
-          "version": "2.0.0",
-          "url": "https://github.com/jfcherng-sublime/LSP-yaml/archive/2.0.0.zip",
-          "date": "2020-07-08 18:00:00"
+          "version": "2.0.1",
+          "url": "https://github.com/jfcherng-sublime/LSP-yaml/archive/2.0.1.zip",
+          "date": "2020-07-13 00:00:00"
         }
       ]
     },
