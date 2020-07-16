@@ -3,8 +3,8 @@
   "packages": [
     {
       "author": "jfcherng",
-      "name": "(T)CSH Syntax",
-      "description": "Syntax highlight for (T)CSH.",
+      "name": "CSH Syntax",
+      "description": "Syntax highlight for CSH/TCSH.",
       "homepage": "https://github.com/jfcherng-sublime/ST-csh-syntax",
       "releases": [
         {
