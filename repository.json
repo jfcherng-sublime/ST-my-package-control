@@ -115,8 +115,8 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=3000",
-          "version": "0.0.1",
-          "url": "https://github.com/jfcherng-sublime/ST-ToggleLoggings/archive/0.0.1.zip",
+          "version": "0.0.2",
+          "url": "https://github.com/jfcherng-sublime/ST-ToggleLoggings/archive/0.0.2.zip",
           "date": "2020-06-14 00:00:00"
         }
       ]
