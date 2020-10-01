@@ -48,6 +48,21 @@
     },
     {
       "author": "jfcherng",
+      "name": "CursorWordHighlighter",
+      "description": "A (Chinese) word highlighter plug-in for Sublime Text.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3000",
+          "version": "2.0.0",
+          "url": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter/archive/2.0.0.zip",
+          "date": "2020-10-01 15:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "IntelliDocs",
       "description": "Quick function parameter hint for Sublime Text.",
       "homepage": "https://github.com/jfcherng-sublime/ST-IntelliDocs",
