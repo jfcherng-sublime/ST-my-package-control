@@ -3,6 +3,21 @@
   "packages": [
     {
       "author": "jfcherng",
+      "name": "AceJump-Chinese",
+      "description": "Jump between characters in Sublime Text without using a mouse at ease.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3143",
+          "version": "2.0.0",
+          "url": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese/archive/2.0.0.zip",
+          "date": "2020-10-02 14:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "CSH Syntax",
       "description": "Syntax highlight for CSH/TCSH.",
       "homepage": "https://github.com/jfcherng-sublime/ST-csh-syntax",
