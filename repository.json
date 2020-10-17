@@ -123,6 +123,21 @@
     },
     {
       "author": "jfcherng",
+      "name": "LSP-tailwindcss",
+      "description": "Python support for Sublime's LSP plugin provided through Tailwind CSS IntelliSense.",
+      "homepage": "https://github.com/jfcherng-sublime/LSP-tailwindcss",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3000",
+          "version": "0.0.1",
+          "url": "https://github.com/jfcherng-sublime/LSP-tailwindcss/archive/0.0.1.zip",
+          "date": "2020-10-17 09:30:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "TodoReview",
       "description": "A SublimeText plugin for reviewing todo (and other) comments within your code.",
       "homepage": "https://github.com/jfcherng-sublime/ST-TodoReview",
