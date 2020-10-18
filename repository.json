@@ -129,10 +129,10 @@
       "releases": [
         {
           "platforms": ["*"],
-          "sublime_text": ">=3000",
-          "version": "0.0.1",
-          "url": "https://github.com/jfcherng-sublime/LSP-tailwindcss/archive/0.0.1.zip",
-          "date": "2020-10-17 09:30:00"
+          "sublime_text": ">=3154",
+          "version": "0.1.1",
+          "url": "https://github.com/jfcherng-sublime/LSP-tailwindcss/archive/0.1.1.zip",
+          "date": "2020-10-19 09:00:00"
         }
       ]
     },
