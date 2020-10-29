@@ -108,21 +108,6 @@
     },
     {
       "author": "jfcherng",
-      "name": "LSP-yaml",
-      "description": "YAML support for Sublime's LSP plugin provided through redhat-developer/yaml-language-server.",
-      "homepage": "https://github.com/jfcherng-sublime/LSP-yaml",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4070",
-          "version": "2.0.2",
-          "url": "https://github.com/jfcherng-sublime/LSP-yaml/archive/2.0.2.zip",
-          "date": "2020-07-30 00:00:00"
-        }
-      ]
-    },
-    {
-      "author": "jfcherng",
       "name": "LSP-tailwindcss",
       "description": "Python support for Sublime's LSP plugin provided through Tailwind CSS IntelliSense.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-tailwindcss",
