@@ -85,9 +85,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=3143",
-          "version": "1.1.9",
-          "url": "https://github.com/jfcherng-sublime/ST-IntelliDocs/archive/1.1.9.zip",
-          "date": "2020-06-14 00:00:00"
+          "version": "1.1.10",
+          "url": "https://github.com/jfcherng-sublime/ST-IntelliDocs/archive/1.1.10.zip",
+          "date": "2020-10-31 17:30:00"
         }
       ]
     },
