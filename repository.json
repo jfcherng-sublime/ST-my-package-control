@@ -123,6 +123,21 @@
     },
     {
       "author": "jfcherng",
+      "name": "patcher-LSP-intelephense",
+      "description": "Patch intelephense server for LSP-intelephense.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=3154",
+          "version": "1.2.0",
+          "url": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense/archive/1.2.0.zip",
+          "date": "2020-11-07 14:00:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "TodoReview",
       "description": "A SublimeText plugin for reviewing todo (and other) comments within your code.",
       "homepage": "https://github.com/jfcherng-sublime/ST-TodoReview",
