@@ -129,9 +129,9 @@
       "releases": [
         {
           "platforms": ["*"],
-          "sublime_text": ">=4076",
-          "version": "5.1.1",
-          "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/5.1.1.zip",
+          "sublime_text": ">=3154",
+          "version": "5.1.2",
+          "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/5.1.2.zip",
           "date": "2020-09-21 00:00:00"
         }
       ]
