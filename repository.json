@@ -108,21 +108,6 @@
     },
     {
       "author": "jfcherng",
-      "name": "LSP-tailwindcss",
-      "description": "Python support for Sublime's LSP plugin provided through Tailwind CSS IntelliSense.",
-      "homepage": "https://github.com/jfcherng-sublime/LSP-tailwindcss",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=3154",
-          "version": "0.1.1",
-          "url": "https://github.com/jfcherng-sublime/LSP-tailwindcss/archive/0.1.1.zip",
-          "date": "2020-10-19 09:00:00"
-        }
-      ]
-    },
-    {
-      "author": "jfcherng",
       "name": "patcher-LSP-intelephense",
       "description": "Patch intelephense server for LSP-intelephense.",
       "homepage": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense",
