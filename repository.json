@@ -144,10 +144,10 @@
       "releases": [
         {
           "platforms": ["*"],
-          "sublime_text": ">=3143",
-          "version": "0.2.8",
-          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.8.zip",
-          "date": "2020-12-10 14:00:00"
+          "sublime_text": ">=4099",
+          "version": "0.2.9",
+          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.9.zip",
+          "date": "2021-03-15 19:45:00"
         }
       ]
     },
