@@ -18,6 +18,21 @@
     },
     {
       "author": "jfcherng",
+      "name": "AutoFilePath",
+      "description": "Autocomplete file paths in Sublime Text.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-AutoFilePath",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=4078",
+          "version": "2.0.0",
+          "url": "https://github.com/jfcherng-sublime/ST-AutoFilePath/archive/2.0.0.zip",
+          "date": "2021-03-24 21:30:00"
+        }
+      ]
+    },
+    {
+      "author": "jfcherng",
       "name": "CSH Syntax",
       "description": "Syntax highlight for CSH/TCSH.",
       "homepage": "https://github.com/jfcherng-sublime/ST-csh-syntax",
