@@ -24,10 +24,10 @@
       "releases": [
         {
           "platforms": ["*"],
-          "sublime_text": ">=4078",
-          "version": "2.0.1",
-          "url": "https://github.com/jfcherng-sublime/ST-AutoFilePath/archive/2.0.1.zip",
-          "date": "2021-03-30 11:30:00"
+          "sublime_text": ">=4105",
+          "version": "2.0.2",
+          "url": "https://github.com/jfcherng-sublime/ST-AutoFilePath/archive/2.0.2.zip",
+          "date": "2021-06-22 12:30:00"
         }
       ]
     },
