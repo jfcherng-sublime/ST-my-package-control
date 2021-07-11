@@ -1,0 +1,114 @@
+{
+  "schema_version": "3.0.0",
+  "dependencies": [
+    {
+      "name": "jieba",
+      "load_order": "50",
+      "description": "A Chinese text segementation lib.",
+      "author": "Jack Cherng",
+      "issues": "https://github.com/jfcherng-sublime/ST-jieba/issues",
+      "releases": [
+        {
+          "base": "https://github.com/jfcherng-sublime/ST-jieba",
+          "tags": true,
+          "sublime_text": ">=3000"
+        }
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "name": "Advanced Substation Alpha (ASS)",
+      "details": "https://github.com/jfcherng-sublime/ST-ASS",
+      "labels": ["language syntax"],
+      "author": ["jfcherng", "FichteFoll"],
+      "releases": [
+        {
+          "sublime_text": ">=3092",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "AutoSetIndentation",
+      "details": "https://github.com/jfcherng-sublime/ST-AutoSetIndentation",
+      "author": ["jfcherng"],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "AutoSetSyntax",
+      "details": "https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
+      "author": ["jfcherng"],
+      "releases": [
+        {
+          "sublime_text": ">=3084",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "BootstrapAutocomplete",
+      "details": "https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete",
+      "author": ["jfcherng"],
+      "labels": ["auto-complete"],
+      "releases": [
+        {
+          "sublime_text": ">=4105",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "OpenUri",
+      "details": "https://github.com/jfcherng-sublime/ST-OpenUri",
+      "author": ["jfcherng"],
+      "labels": ["shortcut", "url", "uri", "browser"],
+      "releases": [
+        {
+          "sublime_text": ">=3118",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "ShellScriptImproved",
+      "details": "https://github.com/jfcherng-sublime/ST-ShellScriptImproved",
+      "author": ["jfcherng"],
+      "labels": ["language syntax"],
+      "releases": [
+        {
+          "sublime_text": ">=3092",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "TypeShort",
+      "details": "https://github.com/jfcherng-sublime/ST-TypeShort",
+      "author": ["jfcherng"],
+      "labels": ["snippets", "text manipulation"],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "VisualizeZeroWidthChars",
+      "details": "https://github.com/jfcherng-sublime/ST-VisualizeZeroWidthChars",
+      "author": ["jfcherng"],
+      "releases": [
+        {
+          "sublime_text": ">=3118",
+          "tags": true
+        }
+      ]
+    }
+  ]
+}
