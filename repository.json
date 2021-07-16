@@ -140,9 +140,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=4105",
-          "version": "0.2.13",
-          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.13.zip",
-          "date": "2021-06-15 21:45:00"
+          "version": "0.2.14",
+          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.14.zip",
+          "date": "2021-07-16 22:45:00"
         }
       ]
     }
