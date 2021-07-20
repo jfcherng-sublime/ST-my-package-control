@@ -43,11 +43,16 @@
     {
       "name": "AutoSetSyntax",
       "details": "https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
+      "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-AutoSetSyntax/stable/README.md",
       "author": ["jfcherng"],
       "releases": [
         {
-          "sublime_text": ">=3084",
-          "tags": true
+          "sublime_text": ">=4105",
+          "tags": "4105-"
+        },
+        {
+          "sublime_text": "3084 - 4104",
+          "tags": "3084-"
         }
       ]
     },
