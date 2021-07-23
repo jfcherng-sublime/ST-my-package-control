@@ -64,7 +64,7 @@
       "releases": [
         {
           "sublime_text": ">=4105",
-          "tags": true
+          "tags": "4105-"
         }
       ]
     },
