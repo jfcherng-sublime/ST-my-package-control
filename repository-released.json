@@ -20,12 +20,17 @@
     {
       "name": "Advanced Substation Alpha (ASS)",
       "details": "https://github.com/jfcherng-sublime/ST-ASS",
+      "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-ASS/st4/README.md",
       "labels": ["language syntax"],
       "author": ["jfcherng", "FichteFoll"],
       "releases": [
         {
-          "sublime_text": ">=3092",
-          "tags": true
+          "sublime_text": ">=4105",
+          "tags": "4105-"
+        },
+        {
+          "sublime_text": "3092 - 4104",
+          "tags": "3092-"
         }
       ]
     },
