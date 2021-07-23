@@ -124,13 +124,15 @@
       "homepage": "https://github.com/jfcherng-sublime/ST-TodoReview",
       "releases": [
         {
+          "platforms": ["*"],
           "sublime_text": ">=4105",
           "version": "6.0.0",
           "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/4105-6.0.0.zip",
           "date": "2021-07-23 16:40:00"
         },
         {
-          "sublime_text": "3154 - 4104",
+          "platforms": ["*"],
+          "sublime_text": ">=3154",
           "version": "5.1.2",
           "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/3154-5.1.2.zip",
           "date": "2021-07-23 16:40:00"
