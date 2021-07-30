@@ -5,8 +5,9 @@
       "name": "jieba",
       "load_order": "50",
       "description": "A Chinese text segementation lib.",
-      "author": "Jack Cherng",
       "issues": "https://github.com/jfcherng-sublime/ST-jieba/issues",
+      "author": "Jack Cherng",
+      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "base": "https://github.com/jfcherng-sublime/ST-jieba",
@@ -23,6 +24,7 @@
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-ASS/st4/README.md",
       "labels": ["language syntax"],
       "author": ["jfcherng", "FichteFoll"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "sublime_text": ">=4105",
@@ -38,6 +40,7 @@
       "name": "AutoSetIndentation",
       "details": "https://github.com/jfcherng-sublime/ST-AutoSetIndentation",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "sublime_text": ">=3000",
@@ -50,6 +53,7 @@
       "details": "https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-AutoSetSyntax/stable/README.md",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "sublime_text": ">=4105",
@@ -66,6 +70,7 @@
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-BootstrapAutocomplete/st4/README.md",
       "details": "https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "labels": ["auto-complete"],
       "releases": [
         {
@@ -79,6 +84,7 @@
       "details": "https://github.com/jfcherng-sublime/ST-OpenUri",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-OpenUri/st4/README.md",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "labels": ["shortcut", "url", "uri", "browser"],
       "releases": [
         {
@@ -95,6 +101,7 @@
       "name": "ShellScriptImproved",
       "details": "https://github.com/jfcherng-sublime/ST-ShellScriptImproved",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "labels": ["language syntax"],
       "releases": [
         {
@@ -107,6 +114,7 @@
       "name": "TypeShort",
       "details": "https://github.com/jfcherng-sublime/ST-TypeShort",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "labels": ["snippets", "text manipulation"],
       "releases": [
         {
@@ -119,6 +127,7 @@
       "name": "VisualizeZeroWidthChars",
       "details": "https://github.com/jfcherng-sublime/ST-VisualizeZeroWidthChars",
       "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "sublime_text": ">=3118",
