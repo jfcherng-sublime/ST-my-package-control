@@ -80,6 +80,24 @@
       ]
     },
     {
+      "name": "Fanhuaji",
+      "readme": "https://raw.githubusercontent.com/Fanhuaji/Sublime-Fanhuaji/st4/README.md",
+      "details": "https://github.com/Fanhuaji/Sublime-Fanhuaji",
+      "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
+      "labels": ["zhconvert", "chinese", "translation", "繁化姬", "中文", "簡", "繁"],
+      "releases": [
+        {
+          "sublime_text": ">=4105",
+          "tags": "4105-"
+        },
+        {
+          "sublime_text": ">=3118",
+          "tags": "3118-"
+        }
+      ]
+    },
+    {
       "name": "OpenUri",
       "details": "https://github.com/jfcherng-sublime/ST-OpenUri",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-OpenUri/st4/README.md",
