@@ -98,6 +98,20 @@
       ]
     },
     {
+      "name": "FollowLnk",
+      "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-FollowLnk/main/README.md",
+      "details": "https://github.com/jfcherng-sublime/ST-FollowLnk",
+      "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
+      "labels": [],
+      "releases": [
+        {
+          "sublime_text": ">=4105",
+          "tags": "4105-"
+        }
+      ]
+    },
+    {
       "name": "OpenUri",
       "details": "https://github.com/jfcherng-sublime/ST-OpenUri",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-OpenUri/st4/README.md",
