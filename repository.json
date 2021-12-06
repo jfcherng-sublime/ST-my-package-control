@@ -110,9 +110,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=4105",
-          "version": "1.4.9",
-          "url": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense/archive/1.4.9.zip",
-          "date": "2021-06-19 15:00:00"
+          "version": "1.4.10",
+          "url": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense/archive/1.4.10.zip",
+          "date": "2021-12-06 11:00:00"
         },
         {
           "platforms": ["*"],
