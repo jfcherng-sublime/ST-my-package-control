@@ -35,6 +35,22 @@
       ]
     },
     {
+      "name": "CommandAndMenu",
+      "description": "Provide some commands and menus for my personal uses.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-CommandAndMenu",
+      "author": "jfcherng",
+      "donate": "https://paypal.me/jfcherng/5usd",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=4105",
+          "version": "0.2.19",
+          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.19.zip",
+          "date": "2022-01-02 19:00:00"
+        }
+      ]
+    },
+    {
       "name": "CSH Syntax",
       "description": "Syntax highlight for CSH/TCSH.",
       "homepage": "https://github.com/jfcherng-sublime/ST-csh-syntax",
@@ -124,6 +140,22 @@
       ]
     },
     {
+      "name": "RichFormatCodes",
+      "description": "Copy rich format codes which can be paste into other applications.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-RichFormatCodes",
+      "author": "jfcherng",
+      "donate": "https://paypal.me/jfcherng/5usd",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=4105",
+          "version": "0.0.1",
+          "url": "https://github.com/jfcherng-sublime/ST-RichFormatCodes/archive/0.0.1.zip",
+          "date": "2022-01-28 17:00:00"
+        }
+      ]
+    },
+    {
       "name": "TodoReview",
       "description": "A SublimeText plugin for reviewing todo (and other) comments within your code.",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-TodoReview/st4/README.md",
@@ -144,38 +176,6 @@
           "version": "5.1.2",
           "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/3154-5.1.2.zip",
           "date": "2021-07-23 16:40:00"
-        }
-      ]
-    },
-    {
-      "name": "CommandAndMenu",
-      "description": "Provide some commands and menus for my personal uses.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-CommandAndMenu",
-      "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "0.2.19",
-          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.19.zip",
-          "date": "2022-01-02 19:00:00"
-        }
-      ]
-    },
-    {
-      "name": "RichFormatCodes",
-      "description": "Copy rich format codes which can be paste into other applications.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-RichFormatCodes",
-      "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "0.0.1",
-          "url": "https://github.com/jfcherng-sublime/ST-RichFormatCodes/archive/0.0.1.zip",
-          "date": "2022-01-28 17:00:00"
         }
       ]
     }
