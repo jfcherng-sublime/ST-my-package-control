@@ -166,9 +166,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=4105",
-          "version": "0.0.2",
-          "url": "https://github.com/jfcherng-sublime/ST-RichFormatCodes/archive/0.0.2.zip",
-          "date": "2022-02-02 23:30:00"
+          "version": "0.0.3",
+          "url": "https://github.com/jfcherng-sublime/ST-RichFormatCodes/archive/0.0.3.zip",
+          "date": "2022-03-07 14:00:00"
         }
       ]
     },
