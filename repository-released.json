@@ -176,6 +176,7 @@
       "labels": [],
       "releases": [
         {
+          "platforms": "windows",
           "sublime_text": ">=4105",
           "tags": "4105-"
         }
