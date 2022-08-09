@@ -56,6 +56,10 @@
       "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
+          "sublime_text": ">=4114",
+          "tags": "4114-"
+        },
+        {
           "sublime_text": ">=4105",
           "tags": "4105-"
         },
