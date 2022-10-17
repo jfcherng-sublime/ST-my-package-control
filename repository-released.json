@@ -84,6 +84,21 @@
       ]
     },
     {
+      "name": "CustomStatusMessage",
+      "previous_names": ["CustomLineColumnStatus"],
+      "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-CustomStatusMessage/st4/README.md",
+      "details": "https://github.com/jfcherng-sublime/ST-CustomStatusMessage",
+      "author": ["jfcherng"],
+      "donate": "https://paypal.me/jfcherng/5usd",
+      "labels": ["status bar"],
+      "releases": [
+        {
+          "sublime_text": ">=4138",
+          "tags": "4138-"
+        }
+      ]
+    },
+    {
       "name": "Fanhuaji",
       "readme": "https://raw.githubusercontent.com/Fanhuaji/Sublime-Fanhuaji/st4/README.md",
       "details": "https://github.com/Fanhuaji/Sublime-Fanhuaji",
