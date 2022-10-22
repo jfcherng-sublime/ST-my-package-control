@@ -44,9 +44,9 @@
         {
           "platforms": ["*"],
           "sublime_text": ">=4105",
-          "version": "0.2.24",
-          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.2.24.zip",
-          "date": "2022-07-21 10:00:00"
+          "version": "0.3.1",
+          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.3.1.zip",
+          "date": "2022-10-23 02:00:00"
         }
       ]
     },
