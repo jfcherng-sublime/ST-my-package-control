@@ -134,24 +134,25 @@
       ]
     },
     {
-      "name": "patcher-LSP-intelephense",
+      "name": "LSP-intelephense-patcher",
+      "previous_names": ["patcher-LSP-intelephense"],
       "description": "Patch intelephense server for LSP-intelephense.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense",
+      "homepage": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher",
       "author": "jfcherng",
       "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
           "sublime_text": ">=4105",
-          "version": "1.4.12",
-          "url": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense/archive/1.4.12.zip",
-          "date": "2022-03-07 14:00:00"
+          "version": "1.4.13",
+          "url": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher/archive/1.4.13.zip",
+          "date": "2023-01-01 17:00:00"
         },
         {
           "platforms": ["*"],
           "sublime_text": ">=3154",
           "version": "1.4.8",
-          "url": "https://github.com/jfcherng-sublime/ST-patcher-LSP-intelephense/archive/1.4.8.zip",
+          "url": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher/archive/1.4.8.zip",
           "date": "2021-03-23 11:40:00"
         }
       ]
