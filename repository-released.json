@@ -139,6 +139,10 @@
       "labels": ["shortcut", "url", "uri", "browser"],
       "releases": [
         {
+          "sublime_text": ">=4152",
+          "tags": "4152-"
+        },
+        {
           "sublime_text": ">=4105",
           "tags": "4105-"
         },
