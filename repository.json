@@ -7,7 +7,6 @@
       "description": "Jump between characters in Sublime Text without using a mouse at ease.",
       "homepage": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -23,7 +22,6 @@
       "description": "Autocomplete file paths in Sublime Text.",
       "homepage": "https://github.com/jfcherng-sublime/ST-AutoFilePath",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -39,7 +37,6 @@
       "description": "Provide some commands and menus for my personal uses.",
       "homepage": "https://github.com/jfcherng-sublime/ST-CommandAndMenu",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -55,7 +52,6 @@
       "description": "Syntax highlight for CSH/TCSH.",
       "homepage": "https://github.com/jfcherng-sublime/ST-csh-syntax",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -71,7 +67,6 @@
       "description": "A (Chinese) word highlighter plugin for Sublime Text.",
       "homepage": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "deprecated": true,
@@ -88,7 +83,6 @@
       "description": "Insert emoji from the command palette.",
       "homepage": "https://github.com/jfcherng-sublime/ST-Emoji",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "deprecated": true,
@@ -105,7 +99,6 @@
       "description": "Quick function parameter hint for Sublime Text.",
       "homepage": "https://github.com/jfcherng-sublime/ST-IntelliDocs",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "deprecated": true,
@@ -122,7 +115,6 @@
       "description": "Windows Batch support for Sublime's LSP plugin provided through RechInformatica/rech-editor-batch.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-batch",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -139,7 +131,6 @@
       "description": "Patch intelephense server for LSP-intelephense.",
       "homepage": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -163,7 +154,6 @@
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-phpcs/st4/README.md",
       "homepage": "https://github.com/jfcherng-sublime/ST-phpcs",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -179,7 +169,6 @@
       "description": "Copy rich format codes which can be paste into other applications.",
       "homepage": "https://github.com/jfcherng-sublime/ST-RichFormatCodes",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
@@ -196,7 +185,6 @@
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-TodoReview/st4/README.md",
       "homepage": "https://github.com/jfcherng-sublime/ST-TodoReview",
       "author": "jfcherng",
-      "donate": "https://paypal.me/jfcherng/5usd",
       "releases": [
         {
           "platforms": ["*"],
