@@ -165,6 +165,21 @@
       ]
     },
     {
+      "name": "RainbowIndent",
+      "description": "Makes indentation easier to read.",
+      "homepage": "https://github.com/jfcherng-sublime/ST-RainbowIndent",
+      "author": "jfcherng",
+      "releases": [
+        {
+          "platforms": ["*"],
+          "sublime_text": ">=4169",
+          "version": "0.0.1",
+          "url": "https://github.com/jfcherng-sublime/ST-RainbowIndent/archive/4169-0.0.1.zip",
+          "date": "2024-05-12 18:00:00"
+        }
+      ]
+    },
+    {
       "name": "RichFormatCodes",
       "description": "Copy rich format codes which can be paste into other applications.",
       "homepage": "https://github.com/jfcherng-sublime/ST-RichFormatCodes",
