@@ -1,229 +1,195 @@
 {
-  "$schema": "sublime://packagecontrol.io/schemas/repository",
-  "schema_version": "3.0.0",
-  "dependencies": [],
-  "packages": [
-    {
-      "name": "AceJump-Chinese",
-      "description": "Jump between characters in Sublime Text without using a mouse at ease.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4169",
-          "version": "3.0.0",
-          "url": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese/archive/4169-3.0.0.zip",
-          "date": "2024-05-13 02:30:00"
-        },
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=3143",
-          "version": "2.1.1",
-          "url": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese/archive/2.1.1.zip",
-          "date": "2020-10-03 20:00:00"
-        }
-      ]
-    },
-    {
-      "name": "AutoFilePath",
-      "description": "Autocomplete file paths in Sublime Text.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-AutoFilePath",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "2.0.6",
-          "url": "https://github.com/jfcherng-sublime/ST-AutoFilePath/archive/2.0.6.zip",
-          "date": "2022-06-19 12:00:00"
-        }
-      ]
-    },
-    {
-      "name": "CommandAndMenu",
-      "description": "Provide some commands and menus for my personal uses.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-CommandAndMenu",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "0.3.5",
-          "url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.3.5.zip",
-          "date": "2024-04-08 04:00:00"
-        }
-      ]
-    },
-    {
-      "name": "CSH Syntax",
-      "description": "Syntax highlight for CSH/TCSH.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-csh-syntax",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=3092",
-          "version": "0.0.2",
-          "url": "https://github.com/jfcherng-sublime/ST-csh-syntax/archive/0.0.2.zip",
-          "date": "2020-06-16 22:00:00"
-        }
-      ]
-    },
-    {
-      "name": "CursorWordHighlighter",
-      "description": "A (Chinese) word highlighter plugin for Sublime Text.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "deprecated": true,
-          "platforms": ["*"],
-          "sublime_text": ">=3143",
-          "version": "2.1.4",
-          "url": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter/archive/2.1.4.zip",
-          "date": "2020-10-01 20:00:00"
-        }
-      ]
-    },
-    {
-      "name": "Emoji",
-      "description": "Insert emoji from the command palette.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-Emoji",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "deprecated": true,
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "2.1.1",
-          "url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/2.1.1.zip",
-          "date": "2023-11-01 16:30:00"
-        }
-      ]
-    },
-    {
-      "name": "IntelliDocs",
-      "description": "Quick function parameter hint for Sublime Text.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-IntelliDocs",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "deprecated": true,
-          "platforms": ["*"],
-          "sublime_text": ">=3143",
-          "version": "1.1.10",
-          "url": "https://github.com/jfcherng-sublime/ST-IntelliDocs/archive/1.1.10.zip",
-          "date": "2020-10-31 17:30:00"
-        }
-      ]
-    },
-    {
-      "name": "LSP-batch",
-      "description": "Windows Batch support for Sublime's LSP plugin provided through RechInformatica/rech-editor-batch.",
-      "homepage": "https://github.com/jfcherng-sublime/LSP-batch",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4070",
-          "version": "2.0.2",
-          "url": "https://github.com/jfcherng-sublime/LSP-batch/archive/2.0.2.zip",
-          "date": "2020-08-19 00:00:00"
-        }
-      ]
-    },
-    {
-      "name": "LSP-intelephense-patcher",
-      "previous_names": ["patcher-LSP-intelephense"],
-      "description": "Patch intelephense server for LSP-intelephense.",
-      "homepage": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "2.0.0",
-          "url": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher/archive/2.0.0.zip",
-          "date": "2024-04-20 04:00:00"
-        },
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=3154",
-          "version": "1.4.8",
-          "url": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher/archive/1.4.8.zip",
-          "date": "2021-03-23 11:40:00"
-        }
-      ]
-    },
-    {
-      "name": "Phpcs",
-      "description": "PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text.",
-      "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-phpcs/st4/README.md",
-      "homepage": "https://github.com/jfcherng-sublime/ST-phpcs",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "7.0.0",
-          "url": "https://github.com/jfcherng-sublime/ST-phpcs/archive/4105-7.0.0.zip",
-          "date": "2023-01-03 08:00:00"
-        }
-      ]
-    },
-    {
-      "name": "RichFormatCodes",
-      "description": "Copy rich format codes which can be paste into other applications.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-RichFormatCodes",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "0.0.4",
-          "url": "https://github.com/jfcherng-sublime/ST-RichFormatCodes/archive/0.0.4.zip",
-          "date": "2022-09-05 20:00:00"
-        }
-      ]
-    },
-    {
-      "name": "sublack",
-      "description": "Black integration in SublimeText.",
-      "homepage": "https://github.com/jfcherng-sublime/ST-sublack",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "2.4.1",
-          "url": "https://github.com/jfcherng-sublime/ST-sublack/archive/2.4.1.zip",
-          "date": "2023-11-10 21:00:00"
-        }
-      ]
-    },
-    {
-      "name": "TodoReview",
-      "description": "A SublimeText plugin for reviewing todo (and other) comments within your code.",
-      "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-TodoReview/st4/README.md",
-      "homepage": "https://github.com/jfcherng-sublime/ST-TodoReview",
-      "author": "jfcherng",
-      "releases": [
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=4105",
-          "version": "6.0.4",
-          "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/4105-6.0.4.zip",
-          "date": "2024-04-13 15:00:00"
-        },
-        {
-          "platforms": ["*"],
-          "sublime_text": ">=3154",
-          "version": "5.1.2",
-          "url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/3154-5.1.2.zip",
-          "date": "2021-07-23 16:40:00"
-        }
-      ]
-    }
-  ]
+	"$schema": "sublime://packagecontrol.io/schemas/repository",
+	"schema_version": "4.0.0",
+	"libraries": [
+		{
+			"name": "jieba",
+			"description": "A Chinese text segementation lib.",
+			"issues": "https://github.com/jfcherng-sublime/ST-jieba/issues",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"base": "https://github.com/jfcherng-sublime/ST-jieba",
+					"python_versions": ["3.3", "3.8"],
+					"tags": true
+				}
+			]
+		}
+	],
+	"packages": [
+		{
+			"name": "AceJump-Chinese",
+			"description": "Jump between characters in Sublime Text without using a mouse at ease.",
+			"homepage": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4169",
+					"version": "3.0.0",
+					"url": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese/archive/4169-3.0.0.zip",
+					"date": "2024-05-13 02:30:00"
+				},
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=3143",
+					"version": "2.1.1",
+					"url": "https://github.com/jfcherng-sublime/ST-AceJump-Chinese/archive/2.1.1.zip",
+					"date": "2020-10-03 20:00:00"
+				}
+			]
+		},
+		{
+			"name": "AutoFilePath",
+			"description": "Autocomplete file paths in Sublime Text.",
+			"homepage": "https://github.com/jfcherng-sublime/ST-AutoFilePath",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "2.0.6",
+					"url": "https://github.com/jfcherng-sublime/ST-AutoFilePath/archive/2.0.6.zip",
+					"date": "2022-06-19 12:00:00"
+				}
+			]
+		},
+		{
+			"name": "CommandAndMenu",
+			"description": "Provide some commands and menus for my personal uses.",
+			"homepage": "https://github.com/jfcherng-sublime/ST-CommandAndMenu",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "0.3.5",
+					"url": "https://github.com/jfcherng-sublime/ST-CommandAndMenu/archive/0.3.5.zip",
+					"date": "2024-04-08 04:00:00"
+				}
+			]
+		},
+		{
+			"name": "CursorWordHighlighter",
+			"description": "A (Chinese) word highlighter plugin for Sublime Text.",
+			"homepage": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=3143",
+					"version": "2.1.4",
+					"url": "https://github.com/jfcherng-sublime/ST-CursorWordHighlighter/archive/2.1.4.zip",
+					"date": "2020-10-01 20:00:00"
+				}
+			]
+		},
+		{
+			"name": "Emoji",
+			"description": "Insert emoji from the command palette.",
+			"homepage": "https://github.com/jfcherng-sublime/ST-Emoji",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "2.1.1",
+					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/2.1.1.zip",
+					"date": "2023-11-01 16:30:00"
+				}
+			]
+		},
+		{
+			"name": "LSP-batch",
+			"description": "Windows Batch support for Sublime's LSP plugin provided through RechInformatica/rech-editor-batch.",
+			"homepage": "https://github.com/jfcherng-sublime/LSP-batch",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4070",
+					"version": "2.0.2",
+					"url": "https://github.com/jfcherng-sublime/LSP-batch/archive/2.0.2.zip",
+					"date": "2020-08-19 00:00:00"
+				}
+			]
+		},
+		{
+			"name": "LSP-intelephense-patcher",
+			"previous_names": ["patcher-LSP-intelephense"],
+			"description": "Patch intelephense server for LSP-intelephense.",
+			"homepage": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "2.0.0",
+					"url": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher/archive/2.0.0.zip",
+					"date": "2024-04-20 04:00:00"
+				},
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=3154",
+					"version": "1.4.8",
+					"url": "https://github.com/jfcherng-sublime/LSP-intelephense-patcher/archive/1.4.8.zip",
+					"date": "2021-03-23 11:40:00"
+				}
+			]
+		},
+		{
+			"name": "Phpcs",
+			"description": "PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text.",
+			"readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-phpcs/st4/README.md",
+			"homepage": "https://github.com/jfcherng-sublime/ST-phpcs",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "7.0.0",
+					"url": "https://github.com/jfcherng-sublime/ST-phpcs/archive/4105-7.0.0.zip",
+					"date": "2023-01-03 08:00:00"
+				}
+			]
+		},
+		{
+			"name": "RichFormatCodes",
+			"description": "Copy rich format codes which can be paste into other applications.",
+			"homepage": "https://github.com/jfcherng-sublime/ST-RichFormatCodes",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "0.0.4",
+					"url": "https://github.com/jfcherng-sublime/ST-RichFormatCodes/archive/0.0.4.zip",
+					"date": "2022-09-05 20:00:00"
+				}
+			]
+		},
+		{
+			"name": "TodoReview",
+			"description": "A SublimeText plugin for reviewing todo (and other) comments within your code.",
+			"readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-TodoReview/st4/README.md",
+			"homepage": "https://github.com/jfcherng-sublime/ST-TodoReview",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "6.0.4",
+					"url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/4105-6.0.4.zip",
+					"date": "2024-04-13 15:00:00"
+				},
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=3154",
+					"version": "5.1.2",
+					"url": "https://github.com/jfcherng-sublime/ST-TodoReview/archive/3154-5.1.2.zip",
+					"date": "2021-07-23 16:40:00"
+				}
+			]
+		}
+	]
 }
