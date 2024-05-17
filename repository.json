@@ -93,9 +93,9 @@
 				{
 					"platforms": ["*"],
 					"sublime_text": ">=4105",
-					"version": "2.1.1",
-					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/2.1.1.zip",
-					"date": "2023-11-01 16:30:00"
+					"version": "2.1.2",
+					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/2.1.2.zip",
+					"date": "2024-05-18 08:00:00"
 				}
 			]
 		},
