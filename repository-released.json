@@ -1,4 +1,5 @@
 {
+  "$schema": "sublime://packagecontrol.io/schemas/repository",
   "schema_version": "3.0.0",
   "dependencies": [
     {
@@ -9,6 +10,7 @@
       "author": "Jack Cherng",
       "releases": [
         {
+          "platforms": ["*"],
           "base": "https://github.com/jfcherng-sublime/ST-jieba",
           "sublime_text": ">=3000",
           "tags": true
@@ -20,6 +22,7 @@
     {
       "name": "Advanced Substation Alpha (ASS)",
       "details": "https://github.com/jfcherng-sublime/ST-ASS",
+      "homepage": "https://github.com/jfcherng-sublime/ST-ASS",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-ASS/st4/README.md",
       "labels": ["language syntax"],
       "author": ["jfcherng", "FichteFoll"],
@@ -37,6 +40,7 @@
     {
       "name": "AutoSetIndentation",
       "details": "https://github.com/jfcherng-sublime/ST-AutoSetIndentation",
+      "homepage": "https://github.com/jfcherng-sublime/ST-AutoSetIndentation",
       "author": ["jfcherng"],
       "releases": [
         {
@@ -48,6 +52,7 @@
     {
       "name": "AutoSetSyntax",
       "details": "https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
+      "homepage": "https://github.com/jfcherng-sublime/ST-AutoSetSyntax",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-AutoSetSyntax/stable/README.md",
       "author": ["jfcherng"],
       "releases": [
@@ -69,6 +74,7 @@
       "name": "BootstrapAutocomplete",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-BootstrapAutocomplete/st4/README.md",
       "details": "https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete",
+      "homepage": "https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete",
       "author": ["jfcherng"],
       "labels": ["auto-complete"],
       "releases": [
@@ -83,6 +89,7 @@
       "previous_names": ["CustomLineColumnStatus"],
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-CustomStatusMessage/st4/README.md",
       "details": "https://github.com/jfcherng-sublime/ST-CustomStatusMessage",
+      "homepage": "https://github.com/jfcherng-sublime/ST-CustomStatusMessage",
       "author": ["jfcherng"],
       "labels": ["status bar"],
       "releases": [
@@ -96,6 +103,7 @@
       "name": "Fanhuaji",
       "readme": "https://raw.githubusercontent.com/Fanhuaji/Sublime-Fanhuaji/st4/README.md",
       "details": "https://github.com/Fanhuaji/Sublime-Fanhuaji",
+      "homepage": "https://github.com/Fanhuaji/Sublime-Fanhuaji",
       "author": ["jfcherng"],
       "labels": ["zhconvert", "chinese", "translation", "繁化姬", "中文", "簡", "繁"],
       "releases": [
@@ -113,6 +121,7 @@
       "name": "FollowLnk",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-FollowLnk/main/README.md",
       "details": "https://github.com/jfcherng-sublime/ST-FollowLnk",
+      "homepage": "https://github.com/jfcherng-sublime/ST-FollowLnk",
       "author": ["jfcherng"],
       "labels": [],
       "releases": [
@@ -125,6 +134,7 @@
     {
       "name": "OpenUri",
       "details": "https://github.com/jfcherng-sublime/ST-OpenUri",
+      "homepage": "https://github.com/jfcherng-sublime/ST-OpenUri",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-OpenUri/st4/README.md",
       "author": ["jfcherng"],
       "labels": ["shortcut", "url", "uri", "browser"],
@@ -146,6 +156,7 @@
     {
       "name": "RainbowIndent",
       "details": "https://github.com/jfcherng-sublime/ST-RainbowIndent",
+      "homepage": "https://github.com/jfcherng-sublime/ST-RainbowIndent",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-RainbowIndent/st4/README.md",
       "author": "jfcherng",
       "labels": ["indent"],
@@ -162,6 +173,7 @@
     {
       "name": "ShellScriptImproved",
       "details": "https://github.com/jfcherng-sublime/ST-ShellScriptImproved",
+      "homepage": "https://github.com/jfcherng-sublime/ST-ShellScriptImproved",
       "author": ["jfcherng"],
       "labels": ["language syntax"],
       "releases": [
@@ -174,6 +186,7 @@
     {
       "name": "TypeShort",
       "details": "https://github.com/jfcherng-sublime/ST-TypeShort",
+      "homepage": "https://github.com/jfcherng-sublime/ST-TypeShort",
       "author": ["jfcherng"],
       "labels": ["snippets", "text manipulation"],
       "releases": [
@@ -190,6 +203,7 @@
     {
       "name": "VisualizeZeroWidthChars",
       "details": "https://github.com/jfcherng-sublime/ST-VisualizeZeroWidthChars",
+      "homepage": "https://github.com/jfcherng-sublime/ST-VisualizeZeroWidthChars",
       "author": ["jfcherng"],
       "releases": [
         {
@@ -202,6 +216,7 @@
       "name": "WindowsContextMenu",
       "readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-WindowsContextMenu/main/README.md",
       "details": "https://github.com/jfcherng-sublime/ST-WindowsContextMenu",
+      "homepage": "https://github.com/jfcherng-sublime/ST-WindowsContextMenu",
       "author": ["jfcherng"],
       "labels": [],
       "releases": [
