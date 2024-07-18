@@ -138,6 +138,21 @@
 			]
 		},
 		{
+			"name": "LSP-ruff",
+			"description": "LSP helper for ruff - an extremely fast Python linter, written in Rust.",
+			"homepage": "https://github.com/jfcherng-sublime/LSP-ruff",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "2.0.0",
+					"url": "https://github.com/jfcherng-sublime/LSP-ruff/archive/2.0.0.zip",
+					"date": "2024-07-19 02:00:00"
+				}
+			]
+		},
+		{
 			"name": "Phpcs",
 			"description": "PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text.",
 			"readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-phpcs/st4/README.md",
