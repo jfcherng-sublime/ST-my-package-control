@@ -1,21 +1,7 @@
 {
 	"$schema": "sublime://packagecontrol.io/schemas/repository",
 	"schema_version": "4.0.0",
-	"libraries": [
-		{
-			"name": "jieba",
-			"description": "A Chinese text segementation lib.",
-			"issues": "https://github.com/jfcherng-sublime/ST-jieba/issues",
-			"author": "jfcherng",
-			"releases": [
-				{
-					"base": "https://github.com/jfcherng-sublime/ST-jieba",
-					"python_versions": ["3.3", "3.8"],
-					"tags": true
-				}
-			]
-		}
-	],
+	"libraries": [],
 	"packages": [
 		{
 			"name": "AceJump-Chinese",
