@@ -6,12 +6,12 @@
 			"name": "jieba",
 			"load_order": "50",
 			"description": "A Chinese text segementation lib.",
-			"issues": "https://github.com/jfcherng-sublime/ST-jieba/issues",
+			"issues": "https://github.com/packagecontrol/jieba/issues",
 			"author": "Jack Cherng",
 			"releases": [
 				{
 					"platforms": ["*"],
-					"base": "https://github.com/jfcherng-sublime/ST-jieba",
+					"base": "https://github.com/packagecontrol/jieba",
 					"sublime_text": ">=3000",
 					"tags": true
 				}
