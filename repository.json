@@ -148,9 +148,9 @@
 				{
 					"platforms": ["*"],
 					"sublime_text": ">=4105",
-					"version": "7.0.0",
-					"url": "https://github.com/jfcherng-sublime/ST-phpcs/archive/4105-7.0.0.zip",
-					"date": "2023-01-03 08:00:00"
+					"version": "7.0.1",
+					"url": "https://github.com/jfcherng-sublime/ST-phpcs/archive/4105-7.0.1.zip",
+					"date": "2025-10-29 00:00:00"
 				}
 			]
 		},
