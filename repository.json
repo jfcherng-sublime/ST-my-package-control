@@ -78,10 +78,17 @@
 			"releases": [
 				{
 					"platforms": ["*"],
+					"sublime_text": ">=4201",
+					"version": "3.0.0",
+					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/3.0.0.zip",
+					"date": "2025-11-17 00:00:00"
+				},
+				{
+					"platforms": ["*"],
 					"sublime_text": ">=4169",
-					"version": "2.1.4",
-					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/2.1.4.zip",
-					"date": "2024-10-04 00:00:00"
+					"version": "2.1.6",
+					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/2.1.6.zip",
+					"date": "2025-11-17 00:00:00"
 				}
 			]
 		},
