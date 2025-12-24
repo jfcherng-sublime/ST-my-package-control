@@ -146,6 +146,21 @@
 			]
 		},
 		{
+			"name": "LSP-rumdl",
+			"description": "LSP helper for rumdl - Markdown Linter and Formatter written in Rust.",
+			"homepage": "https://github.com/jfcherng-sublime/LSP-rumdl",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4105",
+					"version": "0.0.1",
+					"url": "https://github.com/jfcherng-sublime/LSP-rumdl/archive/0.0.1.zip",
+					"date": "2025-12-24 00:00:00"
+				}
+			]
+		},
+		{
 			"name": "Phpcs",
 			"description": "PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text.",
 			"readme": "https://raw.githubusercontent.com/jfcherng-sublime/ST-phpcs/st4/README.md",
