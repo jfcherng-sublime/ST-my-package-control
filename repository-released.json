@@ -116,6 +116,10 @@
 			"labels": ["zhconvert", "chinese", "translation", "繁化姬", "中文", "簡", "繁"],
 			"releases": [
 				{
+					"sublime_text": ">=4203",
+					"tags": "4203-"
+				},
+				{
 					"sublime_text": ">=4105",
 					"tags": "4105-"
 				},
