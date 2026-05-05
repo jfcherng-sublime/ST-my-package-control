@@ -242,6 +242,10 @@
 			"labels": [],
 			"releases": [
 				{
+					"sublime_text": ">=4203",
+					"tags": "4203-"
+				},
+				{
 					"platforms": "windows",
 					"sublime_text": ">=4201",
 					"tags": "4201-"
