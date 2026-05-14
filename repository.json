@@ -153,9 +153,9 @@
 				{
 					"platforms": ["*"],
 					"sublime_text": ">=4203",
-					"version": "2000.0.0",
-					"url": "https://github.com/jfcherng-sublime/LSP-ruff/archive/2000.0.0.zip",
-					"date": "2026-05-08 00:00:00"
+					"version": "2000.0.7",
+					"url": "https://github.com/jfcherng-sublime/LSP-ruff/archive/2000.0.7.zip",
+					"date": "2026-07-18 00:00:00"
 				},
 				{
 					"platforms": ["*"],
