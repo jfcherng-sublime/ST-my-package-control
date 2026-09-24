@@ -86,9 +86,9 @@
 				{
 					"platforms": ["*"],
 					"sublime_text": ">=4203",
-					"version": "4.0.0",
-					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/4.0.0.zip",
-					"date": "2026-04-11 00:00:00"
+					"version": "4.0.2",
+					"url": "https://github.com/jfcherng-sublime/ST-Emoji/archive/4.0.2.zip",
+					"date": "2026-09-25 00:00:00"
 				},
 				{
 					"platforms": ["*"],
