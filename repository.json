@@ -107,6 +107,28 @@
 			]
 		},
 		{
+			"name": "LiveReload",
+			"description": "LiveReload plugin for SublimeText",
+			"homepage": "https://github.com/jfcherng-sublime/ST-LiveReload",
+			"author": "jfcherng",
+			"releases": [
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4205",
+					"version": "0.2.0",
+					"url": "https://github.com/jfcherng-sublime/ST-LiveReload/archive/0.2.0.zip",
+					"date": "2026-10-06 00:00:00"
+				},
+				{
+					"platforms": ["*"],
+					"sublime_text": ">=4000",
+					"version": "0.1.3",
+					"url": "https://github.com/jfcherng-sublime/ST-LiveReload/archive/0.1.3.zip",
+					"date": "2025-11-17 00:00:00"
+				}
+			]
+		},
+		{
 			"name": "LSP-batch",
 			"description": "Windows Batch support for Sublime's LSP plugin provided through RechInformatica/rech-editor-batch.",
 			"homepage": "https://github.com/jfcherng-sublime/LSP-batch",
